@@ -1,0 +1,1 @@
+# sbi-mictosoft-opencv-trOCR
